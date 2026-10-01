@@ -1,0 +1,12 @@
+{
+  "name": "parts-inventory",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/preferences": "^6.0.0",
+    "html5-qrcode": "^2.3.8"
+  }
+}
